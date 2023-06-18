@@ -1,0 +1,90 @@
+<!DOCTYPE html><html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+
+                             <head><link rel="icon" href="icon.png">
+                             <style>
+                             /* Header/Logo Title */
+                             .header {/n    padding-top: 4px;
+    padding-bottom: 16px;
+    text-align: center;
+background: #020231;
+color: white;
+padding-right: 10px
+}
+
+.spacer {
+    padding-top: 20px;
+    padding-bottom 20px
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+display: block;
+width: 100%;
+    max-width:600px
+}
+
+table {    border-collapse: collapse;    width: 100%;}
+th, td {    text-align: left;    padding: 8px;}
+tr:nth-child(even){background-color: #f2f2f2}
+    th {    background-color: #08084e;    color: white;}
+.mainfont {	font-family: Arial, Helvetica, sans-serif;} .bodytext (	font-family: Arial, Helvetica, sans-serif)</style></head><body>
+    <div class="header"><br>
+    <h2 class="mainfont"><img style="display:  inline; margin: 0 10px;"src="icon.png" alt="" width="20" height="20"/>Data on Staff Members</h2>
+    </div>
+
+    <div  class="spacer"></div>
+
+    <canvas id="myChart"></canvas><br><br>"
+    <table class="mainfont">
+    <tr><th>Name</th><th>Date of Birth</th><th>Employment Type</th></tr>
+<td>Quay Troffel</td><td>30-12-1991</td><td>Part-time</td></tr><td>Andy Jefferson</td><td>20-05-2001</td><td>Part-time</td></tr><td>Toby Grundle</td><td>03-07-1999</td><td>Contract</td></tr><td>Eugene Koch</td><td>13-09-2000</td><td>Permanent</td></tr><td>Kim Lu</td><td>12-12-1993</td><td>Permanent</td></tr><td>Christoper Ford</td><td>17-06-2000</td><td>Permanent</td></tr><td>Patricia Mbheki</td><td>07-01-1993</td><td>Part-time</td></tr><td>Lucy Newlands</td><td>01-01-1995</td><td>Contract</td></tr><td>James Cook</td><td>12-11-1996</td><td>Part-time</td></tr><td>Aera Blue</td><td>22-02-1980</td><td>Permanent</td></tr><td>Ashwin Naidoo</td><td>05-06-2001</td><td>Contract</td></tr><td>Jacob Mayor</td><td>12-09-1989</td><td>Permanent</td></tr><script>
+        var xValues = ["Permanent", "Contract", "Part-time"];
+var yValues = [5, 3, 4];
+var barColors = [
+    "#7575f0",
+    "#4747eb",
+    "#0c0c73"
+];
+
+new Chart("myChart", {
+    type: "doughnut",
+    data: {
+        labels: xValues,
+        datasets: [{
+            backgroundColor: barColors,
+            data: yValues
+        }]
+    },
+    options: {
+
+    }
+});
+</script>
+    </body></html></table>
+    <canvas id="myChart"style="width:100%;max-width:600px"></canvas>
+    <script>        var xValues = ["Permanent", "Contract", "Temporary"];
+var yValues = [5, 3, 4];
+var barColors = [
+    "#7575f0",
+    "#4747eb",
+    "#0c0c73"
+];
+
+new Chart("myChart", {
+    type: "doughnut",
+    data: {
+        labels: xValues,
+        datasets: [{
+            backgroundColor: barColors,
+            data: yValues
+        }]
+    },
+    options: {
+
+    }
+});
+</body></html>
