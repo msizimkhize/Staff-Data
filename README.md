@@ -4,6 +4,7 @@
 
 Staff Data++ is a cross-platform workplace data-visualisation and text outputting software implemented using C++, Javascript and HTML5. Designed on Windows 10 OS, for Winows, Mac, and Linux computers.
 
+***
 ### Features
 
 - Enter data of staff on user-friendly GUI
