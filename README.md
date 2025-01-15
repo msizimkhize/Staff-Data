@@ -1,5 +1,7 @@
 # Staff Data++
 
+![](https://github.com/msizimkhize/Staff-Data/blob/main/IMG/dougnut%20chart.png?raw=true)
+
 ## Version 1.0.0, Created Using Qt-Creator 6.5
 
 Staff Data++ is a cross-platform workplace data-visualisation and text outputting software implemented using C++, Javascript and HTML5. Designed on Windows 10 OS, for Winows, Mac, and Linux computers.
