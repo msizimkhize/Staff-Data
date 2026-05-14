@@ -1,38 +1,47 @@
 # Staff Data Management System
 
-![](https://github.com/msizimkhize/Staff-Data/blob/main/IMG/dougnut%20chart.png?raw=true)
+**The Staff Data Management System** is a sophisticated cross-platform administrative solution designed for seamless workplace data visualisation and reporting. Engineered using a high-performance C++ backend and a dynamic Web-based frontend, it provides a bridge between robust system logic and modern data presentation.
 
-## Created Using Qt-Creator 6.5
+## Technical Architecture
 
-Staff Data++ is a cross-platform workplace data-visualisation and text outputting software implemented using C++, Javascript and HTML5. Designed on Windows 10 OS, for Winows, Mac, and Linux computers.
+Developed within the **Qt Creator 6.5** ecosystem, the application utilises a multi-language stack to ensure both computational efficiency and visual fluidity:
+*   **Core Logic:** C++ (Qt Framework)
+*   **Visualisation:** JavaScript (Animated Charts) & HTML5
+*   **Build System:** QMake
+*   **Target Environments:** Windows 10/11 (Primary), macOS, and Linux.
 
-### Features
+## Key Features
 
-- Enter data of staff on user-friendly GUI
-- Processing done during runtime
-- Visualise data on entries as an interactive graph
-- Makes use of JS animated chart and table
-- Export document as text or HTML
+*   **User-Centric Data Entry:** A streamlined Graphical User Interface (GUI) designed for efficient input of complex staff datasets.
+*   **Real-Time Processing:** High-speed data parsing and calculation executed during runtime for immediate feedback.
+*   **Interactive Visualisation:** Transforms raw staff entries into dynamic, animated JS charts (Doughnut/Graph layouts) and formatted tables.
+*   **Versatile Export Engine:** Generates professional-grade reports in **HTML** (retaining interactive visual elements) or standard **TXT** formats for archival purposes.
 
-## Download
+## Deployment
 
-Download Staff Data++ on either of these links:
+The latest build of the **Staff Data Management System** can be accessed via the following directory:
 
-```https://drive.google.com/drive/folders/1iqOjGiVy5PLWDVAWpADshoHiH1KITi7d?usp=sharing```
+> [**Download via Google Drive**](https://drive.google.com/drive/folders/1iqOjGiVy5PLWDVAWpADshoHiH1KITi7d?usp=sharing)
 
-## Dependancies
+---
 
-Download and install **Qt-Creator** 6.5. Download the **Windows**, **Linux** or **Mac** version.
+## System Dependencies
 
-Any web-browser supporting HTML5 and JS required for displaying output file. **Google Chrome** 114.0.5735.90, and later, or **Microsoft Edge** 113.0. 1774.35 and later are reccomended.
+### Development Environment
+To modify or build the source, **Qt Creator 6.5** (or later) is required. Ensure the appropriate kits for your operating system (Windows, Linux, or macOS) are configured.
 
-## Build
+### Visualisation Requirements
+For optimal rendering of the HTML5 and JavaScript-driven reports, a modern web browser is essential. Recommended versions include:
+*   **Google Chrome:** v114.0 or later
+*   **Microsoft Edge:** v113.0 or later
+*   **Mozilla Firefox:** Recent ESR or stable releases
 
-Build is necessary for the program to run. Dependancies must be installed. Build will run on **Qt-Creator** 6.5 and later. Builds are relatively fast, but build time may vary depending on system, operating system, and device.
+## Build Instructions
 
-## License
-
-MIT
+1.  Initialise the project file (`.pro`) within **Qt Creator 6.5**.
+2.  Configure the build environment using the **QMake** build system.
+3.  Run **qmake** followed by the **Build** command to compile the binaries. 
+*Note: Build durations are typically minimal but may vary based on system specifications and hardware architecture.*
 
 ### Reach Out on LinkedIn
 
