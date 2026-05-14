@@ -40,7 +40,6 @@ For optimal rendering of the HTML5 and JavaScript-driven reports, a modern web b
 2.  Configure the build environment using the **QMake** build system.
 3.  Run **qmake** followed by the **Build** command to compile the binaries. 
 
----
 
 ### Reach Out on LinkedIn
 
