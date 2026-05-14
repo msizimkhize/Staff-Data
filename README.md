@@ -23,8 +23,6 @@ The latest build of the **Staff Data Management System** can be accessed via the
 
 ```https://drive.google.com/drive/folders/1iqOjGiVy5PLWDVAWpADshoHiH1KITi7d?usp=sharing```
 
----
-
 ## System Dependencies
 
 ### Development Environment
