@@ -24,11 +24,11 @@ Download Staff Data++ on either of these links:
 
 Download and install [Qt-Creator](https://www.qt.io/download) 6.5. Download the [Windows](https://download.qt.io/official_releases/qt/6.5/6.5.1/single/qt-everywhere-src-6.5.1.zip), [Linux](https://download.qt.io/official_releases/qt/6.5/6.5.1/single/qt-everywhere-src-6.5.1.zip) or [Mac](https://download.qt.io/official_releases/qt/6.5/6.5.1/single/qt-everywhere-src-6.5.1.zip) version.
 
-Any web-browser supporting HTML5 and JS required for displaying output file. [Google Chrome](https://www.google.com/chrome/)) 114.0.5735.90, and later, or [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) 113.0. 1774.35 and later are reccomended.
+Any web-browser supporting HTML5 and JS required for displaying output file. **Google Chrome** 114.0.5735.90, and later, or **Microsoft Edge** 113.0. 1774.35 and later are reccomended.
 
 ## Build
 
-Build is necessary for the program to run. Dependancies must be installed. Build will run on [Qt-Creator](https://www.qt.io/download) 6.5 and later. Builds are relatively fast, but build time may vary depending on system, operating system, and device.
+Build is necessary for the program to run. Dependancies must be installed. Build will run on **Qt-Creator** 6.5 and later. Builds are relatively fast, but build time may vary depending on system, operating system, and device.
 
 ## License
 
