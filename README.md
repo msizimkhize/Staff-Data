@@ -19,9 +19,8 @@ Staff Data++ is a cross-platform workplace data-visualisation and text outputtin
 
 Download Staff Data++ on either of these links:
 
-```
 https://drive.google.com/drive/folders/1iqOjGiVy5PLWDVAWpADshoHiH1KITi7d?usp=sharing
-```
+
 ## Dependancies
 
 Download and install [Qt-Creator](https://www.qt.io/download) 6.5. Download the [Windows](https://download.qt.io/official_releases/qt/6.5/6.5.1/single/qt-everywhere-src-6.5.1.zip), [Linux](https://download.qt.io/official_releases/qt/6.5/6.5.1/single/qt-everywhere-src-6.5.1.zip) or [Mac](https://download.qt.io/official_releases/qt/6.5/6.5.1/single/qt-everywhere-src-6.5.1.zip) version.
