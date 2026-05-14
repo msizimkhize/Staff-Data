@@ -6,7 +6,6 @@
 
 Staff Data++ is a cross-platform workplace data-visualisation and text outputting software implemented using C++, Javascript and HTML5. Designed on Windows 10 OS, for Winows, Mac, and Linux computers.
 
-***
 ### Features
 
 - Enter data of staff on user-friendly GUI
@@ -19,7 +18,7 @@ Staff Data++ is a cross-platform workplace data-visualisation and text outputtin
 
 Download Staff Data++ on either of these links:
 
-https://drive.google.com/drive/folders/1iqOjGiVy5PLWDVAWpADshoHiH1KITi7d?usp=sharing
+```https://drive.google.com/drive/folders/1iqOjGiVy5PLWDVAWpADshoHiH1KITi7d?usp=sharing```
 
 ## Dependancies
 
@@ -35,7 +34,6 @@ Build is necessary for the program to run. Dependancies must be installed. Build
 
 MIT
 
-***
 ### Reach Out on LinkedIn
 
 [![](https://github.com/msizimkhize/Staff-Data/blob/main/IMG/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e.svg)](https://www.linkedin.com/in/msizimkhize/)
