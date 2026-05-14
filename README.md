@@ -21,7 +21,7 @@ Developed within the **Qt Creator 6.5** ecosystem, the application utilises a mu
 
 The latest build of the **Staff Data Management System** can be accessed via the following directory:
 
-> [**Download via Google Drive**](https://drive.google.com/drive/folders/1iqOjGiVy5PLWDVAWpADshoHiH1KITi7d?usp=sharing)
+```https://drive.google.com/drive/folders/1iqOjGiVy5PLWDVAWpADshoHiH1KITi7d?usp=sharing```
 
 ---
 
