@@ -1,4 +1,4 @@
-# Staff Data++
+# Staff Data Management System
 
 ![](https://github.com/msizimkhize/Staff-Data/blob/main/IMG/dougnut%20chart.png?raw=true)
 
