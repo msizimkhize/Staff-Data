@@ -39,7 +39,6 @@ For optimal rendering of the HTML5 and JavaScript-driven reports, a modern web b
 1.  Initialise the project file (`.pro`) within **Qt Creator 6.5**.
 2.  Configure the build environment using the **QMake** build system.
 3.  Run **qmake** followed by the **Build** command to compile the binaries. 
-*Note: Build durations are typically minimal but may vary based on system specifications and hardware architecture.*
 
 ---
 
